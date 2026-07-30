@@ -110,7 +110,7 @@ motto:    "make it work, then make it beautiful"
 <table width="100%" border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse;">
   <tr>
     <!-- Project 1 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; background-color: #0d1117;">
+    <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; background-color: #0d1117;">
       <strong>◈ &nbsp;<a href="https://github.com/udaysahu-source/udaysahu-source" style="color: #58a6ff; font-weight: bold; text-decoration: none;">udaysahu-source</a></strong>
       <p style="font-size: 14px; color: #8b949e; margin: 8px 0;">My GitHub profile README — dark, minimal, fully animated with live stats.</p>
       <div style="margin-top: 12px;">
@@ -118,47 +118,6 @@ motto:    "make it work, then make it beautiful"
         <a href="https://github.com/udaysahu-source" aria-label="View Live Website for udaysahu-source"><img src="https://img.shields.io/badge/live-0d1117?style=flat-square&logo=vercel&logoColor=00f0ff" alt="Vercel Page" /></a>
         <img src="https://img.shields.io/github/stars/udaysahu-source/udaysahu-source?style=flat-square&labelColor=0d1117&color=161b22" alt="GitHub Stars" />
         <img src="https://img.shields.io/github/last-commit/udaysahu-source/udaysahu-source?style=flat-square&labelColor=0d1117&color=161b22" alt="Last Commit Date" />
-      </div>
-    </td>
-    <!-- Project 2 (Replace with your actual project details) -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; background-color: #0d1117;">
-      <!-- TODO: Replace 'repo-2' with your real repository name in the links below -->
-      <strong>◈ &nbsp;<a href="https://github.com/udaysahu-source/repo-2" style="color: #58a6ff; font-weight: bold; text-decoration: none;">repo-2</a></strong>
-      <p style="font-size: 14px; color: #8b949e; margin: 8px 0;">Brief, one-sentence description of the second project and the problem it solves.</p>
-      <div style="margin-top: 12px;">
-        <a href="https://github.com/udaysahu-source/repo-2" aria-label="View Code for repo-2"><img src="https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=00f0ff" alt="GitHub Repository" /></a>
-        <!-- Replace '#' with your live demo URL if available -->
-        <a href="#" aria-label="View Live Demo for repo-2"><img src="https://img.shields.io/badge/demo-0d1117?style=flat-square&logo=vercel&logoColor=00f0ff" alt="Live Demo" /></a>
-        <img src="https://img.shields.io/github/languages/top/udaysahu-source/repo-2?style=flat-square&labelColor=0d1117&color=161b22" alt="Top Language" />
-        <img src="https://img.shields.io/github/last-commit/udaysahu-source/repo-2?style=flat-square&labelColor=0d1117&color=161b22" alt="Last Commit Date" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 3 (Replace with your actual project details) -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; background-color: #0d1117;">
-      <!-- TODO: Replace 'repo-3' with your real repository name in the links below -->
-      <strong>◈ &nbsp;<a href="https://github.com/udaysahu-source/repo-3" style="color: #58a6ff; font-weight: bold; text-decoration: none;">repo-3</a></strong>
-      <p style="font-size: 14px; color: #8b949e; margin: 8px 0;">Brief, one-sentence description of the third project and the problem it solves.</p>
-      <div style="margin-top: 12px;">
-        <a href="https://github.com/udaysahu-source/repo-3" aria-label="View Code for repo-3"><img src="https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=00f0ff" alt="GitHub Repository" /></a>
-        <!-- Replace '#' with your live demo URL if available -->
-        <a href="#" aria-label="View Live Demo for repo-3"><img src="https://img.shields.io/badge/demo-0d1117?style=flat-square&logo=vercel&logoColor=00f0ff" alt="Live Demo" /></a>
-        <img src="https://img.shields.io/github/languages/top/udaysahu-source/repo-3?style=flat-square&labelColor=0d1117&color=161b22" alt="Top Language" />
-        <img src="https://img.shields.io/github/last-commit/udaysahu-source/repo-3?style=flat-square&labelColor=0d1117&color=161b22" alt="Last Commit Date" />
-      </div>
-    </td>
-    <!-- Project 4 (Replace with your actual project details) -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; background-color: #0d1117;">
-      <!-- TODO: Replace 'repo-4' with your real repository name in the links below -->
-      <strong>◈ &nbsp;<a href="https://github.com/udaysahu-source/repo-4" style="color: #58a6ff; font-weight: bold; text-decoration: none;">repo-4</a></strong>
-      <p style="font-size: 14px; color: #8b949e; margin: 8px 0;">Brief, one-sentence description of the fourth project and the problem it solves.</p>
-      <div style="margin-top: 12px;">
-        <a href="https://github.com/udaysahu-source/repo-4" aria-label="View Code for repo-4"><img src="https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=00f0ff" alt="GitHub Repository" /></a>
-        <!-- Replace '#' with your live demo URL if available -->
-        <a href="#" aria-label="View Live Demo for repo-4"><img src="https://img.shields.io/badge/demo-0d1117?style=flat-square&logo=vercel&logoColor=00f0ff" alt="Live Demo" /></a>
-        <img src="https://img.shields.io/github/languages/top/udaysahu-source/repo-4?style=flat-square&labelColor=0d1117&color=161b22" alt="Top Language" />
-        <img src="https://img.shields.io/github/last-commit/udaysahu-source/repo-4?style=flat-square&labelColor=0d1117&color=161b22" alt="Last Commit Date" />
       </div>
     </td>
   </tr>
@@ -184,15 +143,14 @@ motto:    "make it work, then make it beautiful"
 <a href="https://github.com/udaysahu-source" aria-label="Visit Uday Sahu's GitHub Profile">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub Logo" />
 </a>
-<!-- TODO: Replace '#' in href below with your LinkedIn profile link -->
-<a href="#" aria-label="Connect on LinkedIn">
+<a href="https://www.linkedin.com/in/udaysahu29/" aria-label="Connect on LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn Logo" />
 </a>
-<!-- TODO: Replace 'mailto:your.email@example.com' in href below with your email address -->
-<a href="mailto:your.email@example.com" aria-label="Send an Email">
+<!-- Replace '#' in href below with your actual email address or remove if not needed -->
+<a href="#" aria-label="Send an Email">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Email Badge" />
 </a>
-<!-- TODO: Replace '#' in href below with your X/Twitter handle link -->
+<!-- Replace '#' in href below with your actual X/Twitter link or remove if not needed -->
 <a href="#" aria-label="Follow on X (Twitter)">
   <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff" alt="X Logo" />
 </a>
