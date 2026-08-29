@@ -1,169 +1,72 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Uday Sahu</h1>
+<h3 align="center">Software Engineering Student | Freelance Web Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f0ff&height=170&section=header&text=Uday%20Sahu&fontColor=e6edf3&fontSize=52&fontAlignY=36&desc=building%20quietly%20%C2%B7%20shipping%20often&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Uday Sahu - Waving Header: Building quietly, shipping often" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student+%40+SSIPMT+Raipur;Freelance+Web+Developer;Building+Bunkd+%2C+KahaJau+%26+more;Currently+prepping+for+Smart+India+Hackathon" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/udaysahu-source" aria-label="GitHub Profile Typing Animation">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=00F0FF&center=true&vCenter=true&width=520&lines=%3E+developer+from+India;%3E+learning+in+public;%3E+dark+mode+only" alt="Typing SVG: developer from India, learning in public, dark mode only" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/udaysahu29"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:udaysahu.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://img.shields.io/badge/-%20India-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=googlemaps&logoColor=00f0ff" alt="Location: India" />
-<img src="https://img.shields.io/badge/-%20since%202025-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=00f0ff" alt="Joined GitHub: Since 2025" />
-<a href="https://github.com/udaysahu-source?tab=followers" aria-label="GitHub Followers List">
-  <img src="https://img.shields.io/github/followers/udaysahu-source?style=flat-square&labelColor=0d1117&color=161b22&logo=github&logoColor=00f0ff&label=followers" alt="Followers Count" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=udaysahu-source&style=flat-square&color=161b22&label=views" alt="Total Profile Views Counter" />
+### 🚀 About Me
 
-</div>
+- 🎓 Second-year **B.Tech CSE** student at **SSIPMT, Raipur**
+- 💻 Freelance **web developer** alongside my studies
+- 🛠️ Currently building **Bunkd** — a live attendance/bunk calculator PWA
+- 🌆 Also working on **KahaJau**, a hyperlocal social discovery app for tier-3 Indian cities
+- 🏆 Competing in **Smart India Hackathon 2026** (Legal Metrology compliance scanning problem statement)
+- 🎮 Designing a personal **Life RPG** habit-tracking app, Solo Leveling-inspired
+- 📫 Reach me at **udaysahu.in@gmail.com**
 
-<br/>
+---
 
-```yaml
-name:     Uday Sahu
-location: India
-focus:    web development, learning by building
-stack:    javascript · react · node · git
-motto:    "make it work, then make it beautiful"
-```
+### 🧰 Tech Stack
 
-<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-## ⟢ &nbsp;Stack
+---
 
-<div align="center">
+### 📌 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,tailwind,python&theme=dark" alt="Technical Stack Icons: JavaScript, TypeScript, React, Node.js, HTML5, CSS3, Tailwind CSS, Python" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,mysql,figma&theme=dark" alt="Tools and Platforms Icons: Git, GitHub, VS Code, Vite, MySQL, Figma" />
+| Project | Description |
+|---|---|
+| **[Bunkd](https://bunkd-eight.vercel.app)** | Live attendance/bunk calculator PWA — tells you how many classes you can miss (or must attend) to hit your target attendance % |
+| **KahaJau** | Hyperlocal social discovery app for young people in tier-3 Indian cities |
+| **SIH26034** | Compliance-scanning system for Packaged Commodities under Legal Metrology Rules — built for Smart India Hackathon 2026 |
+| **SYSTEM//** | A personal, offline-first "Life RPG" habit tracker inspired by Solo Leveling |
 
-</div>
+---
 
-<br/>
+### 📊 GitHub Stats
 
-## ⟢ &nbsp;Live Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=udaysahu-source&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysahu-source&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysahu-source&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
-<img src="https://img.shields.io/badge/stats-auto%20refreshed%20every%206h-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=githubactions&logoColor=00f0ff" alt="Status: Auto-refreshed every 6 hours via GitHub Actions" />
-<!-- Update 'pending' to 'active' once your refresh workflow is running -->
-<img src="https://img.shields.io/badge/last%20refresh-pending-0d1117?style=flat-square&labelColor=0d1117&color=161b22&logo=clockify&logoColor=00f0ff" alt="Last Refresh Status" />
+---
 
-<br/><br/>
-
-<!-- Major contribution overview -->
-<img width="95%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/profile-details.svg?v=1" alt="GitHub Profile Contribution Details" />
-
-<br/><br/>
-
-<!-- Grid Layout: Core stats and language distribution -->
-<table width="100%" border="0" cellspacing="0" cellpadding="2" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="33%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/stats.svg?v=1" alt="General GitHub Stats" />
-    </td>
-    <td width="33%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/repos-per-language.svg?v=1" alt="Repositories per Language" />
-    </td>
-    <td width="33%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/most-commit-language.svg?v=1" alt="Languages with Most Commits" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Grid Layout: Productive time and streak -->
-<table width="100%" border="0" cellspacing="0" cellpadding="2" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/productive-time.svg?v=1" alt="Productive Committing Time Distribution" />
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/streak.svg?v=1" alt="Current and Longest Commit Streak" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Grid Layout: Activity graph and Top languages -->
-<table width="100%" border="0" cellspacing="0" cellpadding="2" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="52%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/activity-graph.svg?v=1" alt="Contribution Activity Graph over time" />
-    </td>
-    <td width="48%" align="center" valign="top" style="border: none;">
-      <img width="100%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/langs.svg?v=1" alt="Top Languages Percentage Card" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-## ⟢ &nbsp;Featured Projects
-
-> Badges below are live — stars, top language and last commit update themselves.
-
-<table width="100%" border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse;">
-  <tr>
-    <!-- Project 1 -->
-    <td width="100%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 12px; background-color: #0d1117;">
-      <strong>◈ &nbsp;<a href="https://github.com/udaysahu-source/udaysahu-source" style="color: #58a6ff; font-weight: bold; text-decoration: none;">udaysahu-source</a></strong>
-      <p style="font-size: 14px; color: #8b949e; margin: 8px 0;">My GitHub profile README — dark, minimal, fully animated with live stats.</p>
-      <div style="margin-top: 12px;">
-        <a href="https://github.com/udaysahu-source/udaysahu-source" aria-label="View Code for udaysahu-source"><img src="https://img.shields.io/badge/code-0d1117?style=flat-square&logo=github&logoColor=00f0ff" alt="GitHub Repository" /></a>
-        <a href="https://github.com/udaysahu-source" aria-label="View Live Website for udaysahu-source"><img src="https://img.shields.io/badge/live-0d1117?style=flat-square&logo=vercel&logoColor=00f0ff" alt="Vercel Page" /></a>
-        <img src="https://img.shields.io/github/stars/udaysahu-source/udaysahu-source?style=flat-square&labelColor=0d1117&color=161b22" alt="GitHub Stars" />
-        <img src="https://img.shields.io/github/last-commit/udaysahu-source/udaysahu-source?style=flat-square&labelColor=0d1117&color=161b22" alt="Last Commit Date" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<div align="right"><sub><a href="https://github.com/udaysahu-source?tab=repositories" aria-label="Browse all repositories on GitHub">all repositories →</a></sub></div>
-
-<br/>
-
-## ⟢ &nbsp;Now
-
-- 🛠 &nbsp;building small projects to level up, one commit at a time
-- 📚 &nbsp;deep in the fundamentals — JavaScript, React, and clean UI
-- 🌙 &nbsp;obsessed with dark, minimal interfaces and smooth motion
-- 🤝 &nbsp;open to collaboration on beginner-friendly open source
-
-<br/>
-
-## ⟢ &nbsp;Connect
-
-<div align="center">
-
-<a href="https://github.com/udaysahu-source" aria-label="Visit Uday Sahu's GitHub Profile">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub Logo" />
-</a>
-<a href="https://www.linkedin.com/in/udaysahu29/" aria-label="Connect on LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn Logo" />
-</a>
-<!-- Replace '#' in href below with your actual email address or remove if not needed -->
-<a href="#" aria-label="Send an Email">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Email Badge" />
-</a>
-<!-- Replace '#' in href below with your actual X/Twitter link or remove if not needed -->
-<a href="#" aria-label="Follow on X (Twitter)">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00f0ff" alt="X Logo" />
-</a>
-
-<br/><br/>
-
-<!-- generated by .github/workflows/snake.yml → pushed to the `output` branch -->
-<img width="95%" src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/main/assets/snake-dark.svg?v=1" alt="Snake animation playing on contribution grid" />
-
-<br/>
-
-<sub>⌁ &nbsp;`while (alive) { learn(); build(); repeat(); }` &nbsp;⌁</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:161b22,100:0d1117&height=110&section=footer" width="100%" alt="Footer waves" />
-
-</div>
+<p align="center">
+  <i>"A man without studies is an incomplete being."</i>
+</p>
