@@ -22,9 +22,6 @@
 - 💻 Freelance **web developer** alongside my studies
 - 🛠️ Currently building **Bunkd** — a live attendance/bunk calculator PWA
 - 🌆 Also working on **KahaJau**, a hyperlocal social discovery app for tier-3 Indian cities
-- 🏆 Competing in **Smart India Hackathon 2026** (Legal Metrology compliance scanning)
-- 🎮 Designing a personal **Life RPG** habit-tracking app, Solo Leveling-inspired
-- ⚡ Fun fact: this README updates itself — check the snake game below 👇
 
 ---
 
@@ -42,8 +39,6 @@
 |---|---|
 | **[Bunkd](https://bunkd-eight.vercel.app)** | Live attendance/bunk calculator PWA — tells you how many classes you can miss (or must attend) to hit your target % |
 | **KahaJau** | Hyperlocal social discovery app for young people in tier-3 Indian cities |
-| **SIH26034** | Compliance-scanning system for Packaged Commodities under Legal Metrology Rules — built for Smart India Hackathon 2026 |
-| **SYSTEM//** | A personal, offline-first "Life RPG" habit tracker inspired by Solo Leveling |
 
 ---
 
@@ -69,8 +64,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> ⚠️ This snake animates itself daily via a GitHub Action — see `SETUP.md` for the 2-minute setup so it works on your repo.
 
 ---
 
