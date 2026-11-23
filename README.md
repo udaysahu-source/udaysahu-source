@@ -1,124 +1,120 @@
-<div align="center">
-
 <img src="./assets/header.svg" alt="Uday Sahu — Software Development & Practical Prototypes" width="100%" />
 
 <br />
 
-[**Portfolio**](https://udaysahu.tech) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/udaysahu29/) &nbsp;·&nbsp; [**GitHub**](https://github.com/udaysahu-source) &nbsp;·&nbsp; [**Email**](mailto:udaysahu.in@gmail.com)
-
-<br />
+[Portfolio ↗](https://udaysahu.tech) &nbsp;·&nbsp; [LinkedIn ↗](https://www.linkedin.com/in/udaysahu29/) &nbsp;·&nbsp; [GitHub ↗](https://github.com/udaysahu-source) &nbsp;·&nbsp; [Email ↗](mailto:udaysahu.in@gmail.com)
 
 > **A developer who builds things, experiments with ideas, and learns by shipping real projects.**
 
-</div>
+---
+
+### 01 / About
+
+I am a Computer Science undergraduate at **SSIPMT Raipur** (Class of **2029**) focused on software development, product building, and practical problem-solving.
+
+Rather than remaining in passive tutorial loops, I learn by shipping end-to-end applications: identifying everyday friction, crafting intuitive interfaces, structuring relational or document data schemas, and deploying to cloud infrastructure. My work centers on solving tangible problems in campus workflows, student transit, localized city discovery, and peer gaming.
 
 ---
 
-### 👨‍💻 About Me
+### 02 / Selected Projects
 
-I am a Computer Science undergraduate at **SSIPMT Raipur** (expected graduation **2029**). I focus on software development, product building, and practical problem-solving.
+#### [BunkD](https://bunk-d.vercel.app/) `Live · PWA`
+**Attendance & Margin Calculator** &nbsp;—&nbsp; [Live Application ↗](https://bunk-d.vercel.app/) &nbsp;·&nbsp; [Source Repository ↗](https://github.com/udaysahu-source/bunkd)
 
-- **Problem-first builder:** I look for everyday friction—attendance rules that confuse students, unmapped venues in tier-3 cities, and manual transit verifications—and build focused software to solve them.
-- **End-to-end execution:** I take projects from problem definition and UI/UX design through full-stack implementation and cloud deployment.
-- **Learning by shipping:** Rather than getting stuck in tutorial loops, I learn technologies by building real applications, testing them with peers, and iterating rapidly on feedback.
+Built to eliminate guesswork around mandatory attendance cutoffs. BunkD dynamically models safe lecture skips and projects exact recovery classes required to get back above target thresholds. Engineered as an installable PWA with dual-mode storage: guest offline caching via LocalStorage and authenticated cloud persistence through Firebase.
 
----
-
-### 🚀 Featured Projects
-
-Selected projects prioritizing real-world utility, honest development status, and working code:
-
-#### 1. [BunkD](https://bunk-d.vercel.app/) — Attendance & Margin Calculator
-> **Status:** `Live` · Progressive Web App &nbsp;|&nbsp; [Live App ↗](https://bunk-d.vercel.app/) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/bunkd)
-
-- **The Problem:** College students often struggle to gauge how many lectures they can safely miss without dipping below strict mandatory percentage cutoffs, or how many consecutive classes are needed to recover.
-- **The Solution:** A lightweight PWA featuring subject-wise tracking, dynamic percentage calculations, and deterministic margin forecasting for safe skips and recovery targets. Supports guest local storage alongside authenticated cloud persistence.
-- **Stack:** `JavaScript` · `Firebase Auth` · `LocalStorage` · `PWA` · `Vercel`
+- **Stack:** `JavaScript` · `Firebase Auth & Firestore` · `LocalStorage` · `PWA` · `Vercel`
+- **Highlights:** Deterministic margin forecasting, zero-latency mobile caching, subject-wise threshold tracking
 
 <br />
 
-#### 2. [KahaJau](https://kahajau.vercel.app) — Hyperlocal Social Discovery Platform
-> **Status:** `In Active Development` (Early build live) &nbsp;|&nbsp; [Early Build ↗](https://kahajau.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/KahaJau)
+#### [KahaJau](https://kahajau.vercel.app) `In Active Development`
+**Hyperlocal Venue Discovery Platform** &nbsp;—&nbsp; [Early Build ↗](https://kahajau.vercel.app) &nbsp;·&nbsp; [Source Repository ↗](https://github.com/udaysahu-source/KahaJau)
 
-- **The Problem:** Young people and students in tier-3 cities like Raipur lack reliable real-time visibility into new cafes, study spots, and hangout venues opening across the city.
-- **The Solution:** A student-oriented venue discovery platform featuring vibe-based filtering (study cafe, budget-friendly, group hangouts), a dynamic time-aware feed recommending spots based on the current hour, and a Supabase backend for merchant listings.
+A venue-discovery platform engineered for students and young people in tier-3 Indian cities, starting in Raipur where new cafes, study spots, and community hangouts open frequently without reliable search visibility. Adapts recommendations dynamically based on the current hour (morning breakfast spots, afternoon study zones, evening chill zones).
+
 - **Stack:** `JavaScript` · `Next.js` · `Node.js` · `Supabase (PostgreSQL & Auth)` · `Vercel`
+- **Highlights:** Time-sensitive feed engine ("Now" radar), vibe-based categorization, verified merchant directory
 
 <br />
 
-#### 3. [Bro or Fraud](https://bro-or-fraud.vercel.app/) — Multiplayer Social Deduction Game
-> **Status:** `Live` · Browser Game &nbsp;|&nbsp; [Live Game ↗](https://bro-or-fraud.vercel.app/) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/bro_or_fraud)
+#### [Bro or Fraud](https://bro-or-fraud.vercel.app/) `Live`
+**Pass-The-Phone Social Deduction Game** &nbsp;—&nbsp; [Play Live ↗](https://bro-or-fraud.vercel.app/) &nbsp;·&nbsp; [Source Repository ↗](https://github.com/udaysahu-source/bro_or_fraud)
 
-- **The Problem:** Most group party games require everyone to install an app, create accounts, or deal with complicated lobby configurations, killing momentum during casual meetups.
-- **The Solution:** A zero-setup pass-the-phone social deduction game tailored for college squads and hostel rooms. One phone passes around, secret roles are assigned, and players question each other against fast timers to unmask the imposter.
+An interactive multiplayer deception game designed for college hostels and friends' meetups. Removes all onboarding friction: zero app downloads, no account setup, and runs entirely in a mobile browser on a single shared device through fast-paced timed questioning rounds to expose the secret imposter.
+
 - **Stack:** `React 19` · `TypeScript` · `Tailwind CSS` · `Vercel`
+- **Highlights:** Single-device pass-and-play state loop, rapid countdown logic, localized college word decks
 
 <br />
 
-#### 4. CHECKIN — ESP32-CAM Bus-Pass OCR Prototype
-> **Status:** `Hardware Prototype` · Proof of Concept
+#### CHECKIN `Hardware Prototype`
+**Automated Bus-Pass OCR Verification** &nbsp;—&nbsp; Proof of Concept
 
-- **The Problem:** Manual bus-pass checks on crowded student transit routes cause significant boarding bottlenecks, route delays, and administrative overhead.
-- **The Solution:** An embedded edge-vision system using an ESP32-CAM module to capture bus credentials upon entry and run local optical character recognition (OCR) to automate passenger authorization in real time.
-- **Stack:** `C++` · `ESP32-CAM` · `OCR` · `Embedded Systems` · `Hardware Prototyping`
+An embedded edge-vision system exploring automated transit authorization on college bus routes. An ESP32-CAM module mounted at vehicle entry captures student bus passes and runs localized optical character recognition (OCR) to validate student credentials, cutting boarding bottlenecks without recurring cloud API costs.
+
+- **Stack:** `C++` · `ESP32-CAM` · `Optical Character Recognition` · `Embedded Systems`
+- **Highlights:** On-device image acquisition, contrast pre-processing, localized pattern extraction
 
 <br />
 
-#### 5. [BuildSeek](https://buildseek.vercel.app) — Student Builder & Hackathon Aggregator
-> **Status:** `In Development` · Web App &nbsp;|&nbsp; [Live Demo ↗](https://buildseek.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/BuildSeek)
+#### [BuildSeek](https://buildseek.vercel.app) `In Development`
+**Student Builder & Hackathon Aggregator** &nbsp;—&nbsp; [Live Demo ↗](https://buildseek.vercel.app) &nbsp;·&nbsp; [Source Repository ↗](https://github.com/udaysahu-source/BuildSeek)
 
-- **The Problem:** Student developers lose track of upcoming hackathons, sprint registration cutoffs, and builder opportunities dispersed across multiple separate portals.
-- **The Solution:** A consolidated dashboard aggregating collegiate sprints and global challenges. Includes live deadline countdown radars, skill-match scoring, and automated iCal/Google Calendar deadline synchronization.
+A central radar for collegiate developers tracking hackathon deadlines and open-innovation sprints. Aggregates scattered challenge notices from Devpost, Unstop, and community portals into a unified feed with dynamic countdown timers, skill-match relevance scoring, and one-click iCal synchronization.
+
 - **Stack:** `Next.js` · `TypeScript` · `Supabase (PostgreSQL & RLS)` · `Tailwind CSS` · `Vercel`
+- **Highlights:** Multi-source ingestion pipeline, RFC 5545 iCal generation, automated deadline urgency states
 
 <br />
 
-#### 6. [After9](https://after9.vercel.app) — Event-Focused Festival PWA
-> **Status:** `Prototype` · Built for Navratri &nbsp;|&nbsp; [Live Demo ↗](https://after9.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/after9)
+#### [After9](https://after9.vercel.app) `Prototype`
+**Navratri Event Matchmaking PWA** &nbsp;—&nbsp; [Live Demo ↗](https://after9.vercel.app) &nbsp;·&nbsp; [Source Repository ↗](https://github.com/udaysahu-source/after9)
 
-- **The Problem:** Navratri festival nights create fast-paced coordination needs for students trying to find celebration partners and track multi-venue schedules in Raipur.
-- **The Solution:** A swipe-to-match festival PWA where matching triggers an interactive dual-dandiya clash animation with synchronized audio and haptic feedback, combined with venue schedules and token-gated invitations.
-- **Stack:** `TypeScript` · `React` · `PWA` · `Responsive UI` · `Vercel`
+A hyperlocal partner-finder tailored for the nine nights of Navratri festival celebrations in Raipur. When two users swipe and connect, the app triggers a synchronized dual-dandiya clash animation complete with custom sound effects and haptic feedback, paired with venue calendars and invitation tokens.
+
+- **Stack:** `TypeScript` · `React` · `Progressive Web App` · `Vercel`
+- **Highlights:** Audio-visual match transitions, token-gated invitations, festival schedule directory
 
 ---
 
-### 🛠️ Tech Stack
+### 03 / Stack & Capabilities
 
 Only technologies I actively build with and understand through project implementation:
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C++` &nbsp;·&nbsp; `JavaScript (ES6+)` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` |
-| **Frontend** | `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Progressive Web Apps (PWA)` &nbsp;·&nbsp; `Vite` |
-| **Backend & Databases** | `Node.js` &nbsp;·&nbsp; `Firebase (Auth & Firestore)` &nbsp;·&nbsp; `PostgreSQL (via Supabase)` &nbsp;·&nbsp; `REST APIs` |
-| **Tools & Platforms** | `Git` &nbsp;·&nbsp; `GitHub` &nbsp;·&nbsp; `Linux (Ubuntu)` &nbsp;·&nbsp; `Vercel` &nbsp;·&nbsp; `Figma` &nbsp;·&nbsp; `VS Code` |
+| Layer | Primary Technologies | Practical Application |
+| :--- | :--- | :--- |
+| **Languages** | `C++` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `JavaScript (ES6+)` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `HTML5/CSS3` | Algorithmic problem-solving, typed client/server applications, scripting |
+| **Frontend** | `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `PWA Architecture` &nbsp;·&nbsp; `Vite` | Responsive mobile-first interfaces, client state, offline caching |
+| **Backend & Data** | `Node.js` &nbsp;·&nbsp; `PostgreSQL (via Supabase)` &nbsp;·&nbsp; `Firebase (Firestore & Auth)` &nbsp;·&nbsp; `REST APIs` | Relational schemas, authentication flows, row-level security policies |
+| **Environment** | `Ubuntu Linux` &nbsp;·&nbsp; `Git & GitHub` &nbsp;·&nbsp; `Vercel` &nbsp;·&nbsp; `Figma` &nbsp;·&nbsp; `VS Code` | Daily terminal workflows, version control, CI/CD, interface drafting |
 
 ---
 
-### 🔍 Currently Exploring
+### 04 / Current Exploration
 
 Areas I am actively studying and experimenting with alongside my coursework:
 
-- **Data Structures & Algorithms:** Practicing problem-solving patterns on LeetCode and Codeforces.
-- **Full-Stack Architecture:** Building with Next.js App Router, server-side data fetching, and offline-first PWA sync.
+- **Data Structures & Algorithms:** Practicing computational problem-solving patterns on LeetCode and Codeforces.
+- **Full-Stack Architecture:** Building with Next.js App Router, server-side caching, and offline-first PWA sync.
 - **Relational Modeling & Security:** Structuring PostgreSQL schemas, database normalization, and Row-Level Security (RLS) policies.
-- **CS Foundations:** Working daily in an Ubuntu Linux environment, exploring operating systems, networking protocols, and cybersecurity basics.
+- **Systems & Computing Foundations:** Working daily in an Ubuntu Linux environment, exploring operating systems, networking protocols, and cybersecurity basics.
 
 ---
 
-### 📈 GitHub Overview
+### 05 / Activity & Telemetry
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=udaysahu-source&show_icons=true&bg_color=0e1015&title_color=f97316&text_color=e4e4e7&icon_color=f97316&border_color=262833&hide_border=false" alt="Uday's GitHub Stats" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=udaysahu-source&show_icons=true&bg_color=101115&title_color=f97316&text_color=e4e4e7&icon_color=f97316&border_color=262732&hide_border=false" alt="Uday's GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysahu-source&layout=compact&bg_color=0e1015&title_color=f97316&text_color=e4e4e7&border_color=262833&hide_border=false" alt="Uday's Top Languages" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysahu-source&layout=compact&bg_color=101115&title_color=f97316&text_color=e4e4e7&border_color=262732&hide_border=false" alt="Uday's Top Languages" />
 
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 06 / Connect
 
 - **Portfolio:** [udaysahu.tech](https://udaysahu.tech)
 - **LinkedIn:** [linkedin.com/in/udaysahu29](https://www.linkedin.com/in/udaysahu29/)
