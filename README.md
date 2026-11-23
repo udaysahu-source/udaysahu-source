@@ -1,84 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58A6FF&height=200&section=header&text=Hi%20There%2C%20I'm%20Uday%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header banner: Hi there, I'm Uday" />
+<img src="./assets/header.svg" alt="Uday Sahu — Software Development & Practical Prototypes" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things+people+actually+use;CSE+Student+%26+Product+Builder+%40+Raipur;Freelance+Web+Developer;Building+KahaJau;Prepping+for+Smart+India+Hackathon+2026)](https://udaysahu.tech)
+<br />
 
-<a href="https://udaysahu.tech"><img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/udaysahu29"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:udaysahu.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://leetcode.com/u/udaysahu_/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/udaysahu"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+[**Portfolio**](https://udaysahu.tech) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/udaysahu29/) &nbsp;·&nbsp; [**GitHub**](https://github.com/udaysahu-source) &nbsp;·&nbsp; [**Email**](mailto:udaysahu.in@gmail.com)
+
+<br />
+
+> **A developer who builds things, experiments with ideas, and learns by shipping real projects.**
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 Second-year **B.Tech CSE** student at **SSIPMT, Raipur**
-- 🧩 **Product builder**: I turn practical problems into working prototypes
-- 💻 **Freelance web developer** alongside my studies
-- 🛠️ Currently building **KahaJau**, a hyperlocal social discovery app for young people in tier-3 Indian cities, starting in Raipur
-- 🏆 Preparing for **Google Summer of Code 2027**
-- 🤝 Open to: **internships, hackathon teams, and freelance projects**
-- 📫 Reach me: [udaysahu.in@gmail.com](mailto:udaysahu.in@gmail.com) · [udaysahu.tech](https://udaysahu.tech)
+I am a Computer Science undergraduate at **SSIPMT Raipur** (expected graduation **2029**). I focus on software development, product building, and practical problem-solving.
+
+- **Problem-first builder:** I look for everyday friction—attendance rules that confuse students, unmapped venues in tier-3 cities, and manual transit verifications—and build focused software to solve them.
+- **End-to-end execution:** I take projects from problem definition and UI/UX design through full-stack implementation and cloud deployment.
+- **Learning by shipping:** Rather than getting stuck in tutorial loops, I learn technologies by building real applications, testing them with peers, and iterating rapidly on feedback.
 
 ---
 
-### 📌 Selected Work
+### 🚀 Featured Projects
 
-| Project | What it does | Type | Links |
-|---|---|---|---|
-| **Bunkd** | Attendance and margin calculator for college students. Shows how many lectures you can safely skip for any cutoff | PWA | [Live](https://bunk-d.vercel.app/) · [Code](https://github.com/udaysahu-source/bunkd) |
-| **BuildSeek** | Discovery engine for student builders and indie devs: find real problems, browse curated project briefs, connect with build partners | Web app | |
-| **After9** | Garba and dandiya partner finder for Navratri nights in Raipur. Swipe to send a dandiya, and a match plays both dandiyas clashing with sound and sparkles | PWA | [Code](https://github.com/udaysahu-source/after9) |
-| **Bro or Fraud** | Multiplayer pass-the-phone social deception game. Question each other fast to spot the fraud | Game | [Live](https://bro-or-fraud.vercel.app/) · [Code](https://github.com/udaysahu-source/bro_or_fraud) |
-| **KahaJau** *(in progress)* | Hyperlocal social discovery for tier-3 Indian cities | App | [Earlier build](https://kahajau.vercel.app) · [Code](https://github.com/udaysahu-source/KahaJau) |
+Selected projects prioritizing real-world utility, honest development status, and working code:
+
+#### 1. [BunkD](https://bunk-d.vercel.app/) — Attendance & Margin Calculator
+> **Status:** `Live` · Progressive Web App &nbsp;|&nbsp; [Live App ↗](https://bunk-d.vercel.app/) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/bunkd)
+
+- **The Problem:** College students often struggle to gauge how many lectures they can safely miss without dipping below strict mandatory percentage cutoffs, or how many consecutive classes are needed to recover.
+- **The Solution:** A lightweight PWA featuring subject-wise tracking, dynamic percentage calculations, and deterministic margin forecasting for safe skips and recovery targets. Supports guest local storage alongside authenticated cloud persistence.
+- **Stack:** `JavaScript` · `Firebase Auth` · `LocalStorage` · `PWA` · `Vercel`
+
+<br />
+
+#### 2. [KahaJau](https://kahajau.vercel.app) — Hyperlocal Social Discovery Platform
+> **Status:** `In Active Development` (Early build live) &nbsp;|&nbsp; [Early Build ↗](https://kahajau.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/KahaJau)
+
+- **The Problem:** Young people and students in tier-3 cities like Raipur lack reliable real-time visibility into new cafes, study spots, and hangout venues opening across the city.
+- **The Solution:** A student-oriented venue discovery platform featuring vibe-based filtering (study cafe, budget-friendly, group hangouts), a dynamic time-aware feed recommending spots based on the current hour, and a Supabase backend for merchant listings.
+- **Stack:** `JavaScript` · `Next.js` · `Node.js` · `Supabase (PostgreSQL & Auth)` · `Vercel`
+
+<br />
+
+#### 3. [Bro or Fraud](https://bro-or-fraud.vercel.app/) — Multiplayer Social Deduction Game
+> **Status:** `Live` · Browser Game &nbsp;|&nbsp; [Live Game ↗](https://bro-or-fraud.vercel.app/) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/bro_or_fraud)
+
+- **The Problem:** Most group party games require everyone to install an app, create accounts, or deal with complicated lobby configurations, killing momentum during casual meetups.
+- **The Solution:** A zero-setup pass-the-phone social deduction game tailored for college squads and hostel rooms. One phone passes around, secret roles are assigned, and players question each other against fast timers to unmask the imposter.
+- **Stack:** `React 19` · `TypeScript` · `Tailwind CSS` · `Vercel`
+
+<br />
+
+#### 4. CHECKIN — ESP32-CAM Bus-Pass OCR Prototype
+> **Status:** `Hardware Prototype` · Proof of Concept
+
+- **The Problem:** Manual bus-pass checks on crowded student transit routes cause significant boarding bottlenecks, route delays, and administrative overhead.
+- **The Solution:** An embedded edge-vision system using an ESP32-CAM module to capture bus credentials upon entry and run local optical character recognition (OCR) to automate passenger authorization in real time.
+- **Stack:** `C++` · `ESP32-CAM` · `OCR` · `Embedded Systems` · `Hardware Prototyping`
+
+<br />
+
+#### 5. [BuildSeek](https://buildseek.vercel.app) — Student Builder & Hackathon Aggregator
+> **Status:** `In Development` · Web App &nbsp;|&nbsp; [Live Demo ↗](https://buildseek.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/BuildSeek)
+
+- **The Problem:** Student developers lose track of upcoming hackathons, sprint registration cutoffs, and builder opportunities dispersed across multiple separate portals.
+- **The Solution:** A consolidated dashboard aggregating collegiate sprints and global challenges. Includes live deadline countdown radars, skill-match scoring, and automated iCal/Google Calendar deadline synchronization.
+- **Stack:** `Next.js` · `TypeScript` · `Supabase (PostgreSQL & RLS)` · `Tailwind CSS` · `Vercel`
+
+<br />
+
+#### 6. [After9](https://after9.vercel.app) — Event-Focused Festival PWA
+> **Status:** `Prototype` · Built for Navratri &nbsp;|&nbsp; [Live Demo ↗](https://after9.vercel.app) &nbsp;·&nbsp; [Repository ↗](https://github.com/udaysahu-source/after9)
+
+- **The Problem:** Navratri festival nights create fast-paced coordination needs for students trying to find celebration partners and track multi-venue schedules in Raipur.
+- **The Solution:** A swipe-to-match festival PWA where matching triggers an interactive dual-dandiya clash animation with synchronized audio and haptic feedback, combined with venue schedules and token-gated invitations.
+- **Stack:** `TypeScript` · `React` · `PWA` · `Responsive UI` · `Vercel`
 
 ---
 
-### 💼 Freelance Services
+### 🛠️ Tech Stack
 
-Need a website or app? I take on:
+Only technologies I actively build with and understand through project implementation:
 
-- 🌐 Portfolio and business landing pages
-- ⚛️ Web apps in React and Next.js
-- 📱 PWAs that install and feel like native apps
-- 🔄 Redesigns of old, slow or dated sites
-
-👉 [Email me](mailto:udaysahu.in@gmail.com) or see more at [udaysahu.tech](https://udaysahu.tech)
-
----
-
-### 🧰 Tech Stack
-
-**Languages:** TypeScript · JavaScript · C++ · HTML · CSS
-**Frontend:** React · Next.js · Tailwind CSS
-**Backend & DB:** Node.js · MongoDB · PostgreSQL
-**Tools:** Git · Vercel · Figma
-
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,nodejs,html,css,tailwind,mongodb,postgres,git,vercel,figma" alt="Tech stack icons" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C++` &nbsp;·&nbsp; `JavaScript (ES6+)` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `HTML5` &nbsp;·&nbsp; `CSS3` |
+| **Frontend** | `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `Progressive Web Apps (PWA)` &nbsp;·&nbsp; `Vite` |
+| **Backend & Databases** | `Node.js` &nbsp;·&nbsp; `Firebase (Auth & Firestore)` &nbsp;·&nbsp; `PostgreSQL (via Supabase)` &nbsp;·&nbsp; `REST APIs` |
+| **Tools & Platforms** | `Git` &nbsp;·&nbsp; `GitHub` &nbsp;·&nbsp; `Linux (Ubuntu)` &nbsp;·&nbsp; `Vercel` &nbsp;·&nbsp; `Figma` &nbsp;·&nbsp; `VS Code` |
 
 ---
 
-### 📊 GitHub Stats
+### 🔍 Currently Exploring
+
+Areas I am actively studying and experimenting with alongside my coursework:
+
+- **Data Structures & Algorithms:** Practicing problem-solving patterns on LeetCode and Codeforces.
+- **Full-Stack Architecture:** Building with Next.js App Router, server-side data fetching, and offline-first PWA sync.
+- **Relational Modeling & Security:** Structuring PostgreSQL schemas, database normalization, and Row-Level Security (RLS) policies.
+- **CS Foundations:** Working daily in an Ubuntu Linux environment, exploring operating systems, networking protocols, and cybersecurity basics.
+
+---
+
+### 📈 GitHub Overview
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=udaysahu-source&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysahu-source&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-
-![Contribution snake](https://raw.githubusercontent.com/udaysahu-source/udaysahu-source/output/github-contribution-grid-snake.svg)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=udaysahu-source&show_icons=true&bg_color=0e1015&title_color=f97316&text_color=e4e4e7&icon_color=f97316&border_color=262833&hide_border=false" alt="Uday's GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysahu-source&layout=compact&bg_color=0e1015&title_color=f97316&text_color=e4e4e7&border_color=262833&hide_border=false" alt="Uday's Top Languages" />
 
 </div>
 
 ---
 
-<div align="center">
+### 📬 Connect With Me
 
-*"A man without studies is an incomplete being."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58A6FF&height=100&section=footer" alt="Footer wave" />
-
-</div>
+- **Portfolio:** [udaysahu.tech](https://udaysahu.tech)
+- **LinkedIn:** [linkedin.com/in/udaysahu29](https://www.linkedin.com/in/udaysahu29/)
+- **GitHub:** [github.com/udaysahu-source](https://github.com/udaysahu-source)
+- **Email:** [udaysahu.in@gmail.com](mailto:udaysahu.in@gmail.com)

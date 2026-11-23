@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%" height="auto" fill="none">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1015"/>
+      <stop offset="50%" stop-color="#13151b"/>
+      <stop offset="100%" stop-color="#181a22"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#ea580c" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#27272a" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="grid-pattern" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.75" fill="#27272a" fill-opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <!-- Background container -->
+  <rect width="900" height="200" rx="10" fill="url(#bg-grad)"/>
+  <rect width="900" height="200" rx="10" fill="url(#grid-pattern)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="9.5" stroke="#262833" stroke-width="1"/>
+
+  <!-- Top hairline accent -->
+  <rect x="40" y="28" width="820" height="1" fill="url(#line-grad)"/>
+
+  <!-- Status pill / micro-tag -->
+  <g transform="translate(40, 44)">
+    <circle cx="5" cy="6" r="3.5" fill="#f97316"/>
+    <text x="16" y="9.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" fill="#fb923c" letter-spacing="1.5">SOFTWARE DEVELOPMENT · PRACTICAL PROTOTYPES</text>
+  </g>
+
+  <!-- Main Identity Header -->
+  <text x="40" y="106" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#fefbf6" letter-spacing="-0.5">Uday Sahu</text>
+
+  <!-- Subtitle -->
+  <text x="40" y="136" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500" fill="#d4d4d8">
+    B.Tech Computer Science · SSIPMT Raipur <tspan fill="#71717a">· Class of 2029</tspan>
+  </text>
+
+  <!-- Tagline -->
+  <text x="40" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#a1a1aa">
+    Building practical software, experimenting with ideas, and learning by shipping real projects.
+  </text>
+
+  <!-- Right side technical badge -->
+  <g transform="translate(690, 80)">
+    <rect width="170" height="62" rx="6" fill="#171922" stroke="#27272a" stroke-width="1"/>
+    <text x="14" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#71717a" letter-spacing="1">LOCATION</text>
+    <text x="14" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#f4f4f5">Raipur, India</text>
+  </g>
+</svg>
